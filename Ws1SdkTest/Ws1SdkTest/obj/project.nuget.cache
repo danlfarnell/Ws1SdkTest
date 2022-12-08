@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AY1VEdJPsoJHALZDxOx064OmdlWKLT3mzrc3yCgv85Qca+QrzGsJ6yMQtjsQzr6jBYQ5Lwx6KWRrWTMVRvUYCg==",
+  "success": true,
+  "projectFilePath": "/Users/danielf3/RiderProjects/Ws1SdkTest/Ws1SdkTest/Ws1SdkTest/Ws1SdkTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielf3/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/danielf3/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/danielf3/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
