@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using Android.App;
 using Android.Content;
 using Android.Runtime;
@@ -31,7 +32,8 @@ namespace Ws1SdkTest.Droid
             }
             catch (Exception e)
             {
-                Console.WriteLine(e);
+                Debug.WriteLine(e.ToString());
+                
                 throw;
             }
          
